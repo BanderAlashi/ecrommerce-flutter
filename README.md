@@ -1,6 +1,16 @@
 # Basic Ecommerce app
 
-A new Flutter project.
+🛍️ Flutter Mini Market App (University Project)
+This was my first Flutter project built during university. It's a basic mini-market app that showcases essential Flutter skills like:
+
+🧭 Navigation between pages
+
+🛒 Displaying and managing items in a shopping cart
+
+🎨 Clean UI design using Flutter widgets
+
+📝 Note: This version doesn't include any backend integration (no database or networking).
+🚀 I'm currently working on a new, improved version of this app with full backend support and better scalability — stay tuned!
 
 ## Getting Started
 
